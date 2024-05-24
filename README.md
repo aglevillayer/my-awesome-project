@@ -1,7 +1,4 @@
-# my-awesome-project
+Repository for odyssey exercices
 
-This awesome project is created to experiment git notions like clone, push and pull.
-
-# Achievements
-
-J'ai réussi à faire clone, pulll et je m'apprête à faire push
+Exercice Express 01.2 - Création de routes utilisateur
+Using the repo from odyssey "express-quests"
